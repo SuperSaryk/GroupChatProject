@@ -28,7 +28,7 @@ body{
   
   .main {
       background-color: #eee;
-      width: 320px;
+      width: 80vw;
       position: relative;
       border-radius: 8px;
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -47,12 +47,12 @@ body{
   }
   
   .name {
-      font-size: 8px
+      font-size: 0.9em;
   }
   
   .msg {
       background-color: #fff;
-      font-size: 11px;
+      font-size: 1em;
       padding: 5px;
       border-radius: 5px;
       font-weight: 500;
@@ -60,7 +60,7 @@ body{
   }
   
   .between {
-      font-size: 8px;
+      font-size: 0.9em;
       font-weight: 500;
       color: #a09e9e
   }
@@ -72,7 +72,7 @@ body{
   }
   
   .form-control {
-      font-size: 12px;
+      font-size: 1em;
       font-weight: 400;
       width: 230px;
       height: 30px;
